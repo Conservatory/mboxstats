@@ -19,11 +19,14 @@ example:
     All kinds of per-user statistics
     And much more! 
 
-As of 9 December 2013 / version 3.0, it didn't have its own README, so
-I made this README based on http://www.vanheusden.com/mboxstats/.  As
-far as I can tell, the author does not keep the mboxstats source code
-in public version control repository, so I made this import from the
-3.0 tarball at http://www.vanheusden.com/mboxstats/mboxstats-3.0.tgz.
+Since mboxstats doesn't have its own README, I made this one based on
+http://www.vanheusden.com/mboxstats/.  As far as I can tell, the
+author does not keep the mboxstats source code in public version
+control repository.  The first Conservatory import was based on 3.0
+from http://www.vanheusden.com/mboxstats/mboxstats-3.0.tgz.  The
+changes for version 3.1 changes were brought in on 17 Oct 2014, in
+commit e1f8931d41a and commit 964f42edd45, based on a distribution
+downloaded from http://www.vanheusden.com/mboxstats/mboxstats-3.1.tgz.
 
 On the web site, the author asks people to report usage of mboxstats:
 http://www.vanheusden.com/mboxstats/feedbackform.php?subject=mboxstats
