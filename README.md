@@ -21,7 +21,7 @@ example:
 
 Since mboxstats doesn't have its own README, I made this one based on
 http://www.vanheusden.com/mboxstats/.  As far as I can tell, the
-author does not keep the mboxstats source code in public version
+author does not keep the mboxstats source code in a public version
 control repository.  The first Conservatory import was based on
 version 3.0 from http://www.vanheusden.com/mboxstats/mboxstats-3.0.tgz
 in Dec 2013.  Later, the changes for version 3.1 were brought in on 
