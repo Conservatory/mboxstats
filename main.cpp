@@ -227,7 +227,7 @@ int main(int argc, char *argv[])
 {
 	/* statistics variables */
 	long unsigned int Cyear[3000]; // in the year 3000 this program will fail
-	long unsigned int Cyearbytes[300];
+	long unsigned int Cyearbytes[3000];
 	long unsigned int Cmonth[12+1], Cday[31+1], Cwday[7+1], Chour[24], Ctotal=0, total=0;
 	long unsigned int Cmonthbytes[12+1], Cdaybytes[31+1], Cwdaybytes[7+1], Chourbytes[24];
 	long unsigned int importance_low = 0, importance_normal = 0, importance_high = 0;
